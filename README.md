@@ -17,7 +17,7 @@ A modern, responsive travel application built with Next.js, JavaScript, and Tail
 ## 🛠️ Tech Stack
 Next.js – Framework for React with SSR and routing
 
-JavaScript – Logic and interactivity
+Typescript – Logic and interactivity and javaScript
 
 Tailwind CSS – Utility-first CSS framework for styling
 
